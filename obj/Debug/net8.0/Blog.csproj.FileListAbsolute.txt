@@ -1,0 +1,14 @@
+c:\EntityFramework\Projeto1\Blog\bin\Debug\net8.0\Blog.exe
+c:\EntityFramework\Projeto1\Blog\bin\Debug\net8.0\Blog.deps.json
+c:\EntityFramework\Projeto1\Blog\bin\Debug\net8.0\Blog.runtimeconfig.json
+c:\EntityFramework\Projeto1\Blog\bin\Debug\net8.0\Blog.dll
+c:\EntityFramework\Projeto1\Blog\bin\Debug\net8.0\Blog.pdb
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\Blog.AssemblyInfoInputs.cache
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\Blog.AssemblyInfo.cs
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\Blog.csproj.CoreCompileInputs.cache
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\Blog.dll
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\refint\Blog.dll
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\Blog.pdb
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\Blog.genruntimeconfig.cache
+c:\EntityFramework\Projeto1\Blog\obj\Debug\net8.0\ref\Blog.dll
