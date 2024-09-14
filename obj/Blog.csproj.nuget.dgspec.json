@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj": {}
+    "C:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "c:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj": {
+    "C:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "c:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj",
+        "projectPath": "C:\\EntityFramework\\Projeto1\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\CSI-note22\\.nuget\\packages\\",
-        "outputPath": "c:\\EntityFramework\\Projeto1\\Blog\\obj\\",
+        "outputPath": "C:\\EntityFramework\\Projeto1\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CSI-note22\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
